@@ -160,7 +160,7 @@ call DAO or factory methods directly.
 
 ## GitHub Repository
 
-https://github.com/](https://github.com/ShagalVerma/FinTracker
+https://github.com/ShagalVerma/FinTracker
 
 ---
 
